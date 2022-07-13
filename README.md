@@ -1,8 +1,10 @@
 Hi all / Всем привет
+
 This is my first Qurre plugin / Это мой первый плагин для Qurre
 
 
 The simplest hit marker, just a few config setting / Самый простой хитмаркер, всего несколько настроек конфига
+
 Let's start! / Давайте начнем!
 
 
