@@ -1,4 +1,4 @@
-﻿using Qurre;
+using Qurre;
 using Qurre.API.Events;
 using Qurre.Events;
 using System;
